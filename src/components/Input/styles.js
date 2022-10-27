@@ -21,3 +21,9 @@ export const InputText = styled.input`
   height: 1.875rem;
   width: 100%;
 `;
+
+export const ErrorText = styled.p`
+  color: red;
+  font-size: 0.75rem;
+  margin: 0.5rem;
+`;
